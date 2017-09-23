@@ -9,7 +9,7 @@
 ***
 
 ### ■ 結果
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIjUlUETgn0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/PIjUlUETgn0/0.jpg)](https://www.youtube.com/watch?v=PIjUlUETgn0)
 ***
 
 ### ■ 参考文献
