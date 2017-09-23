@@ -9,7 +9,7 @@
 ***
 
 ### ■ 結果
-[![](http://img.youtube.com/vi/PIjUlUETgn0/0.jpg)](https://www.youtube.com/watch?v=PIjUlUETgn0)
+[Imgur](https://i.imgur.com/C6WOXmX.gifv)
 ***
 
 ### ■ 参考文献
