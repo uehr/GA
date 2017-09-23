@@ -9,7 +9,7 @@
 ***
 
 ### ■ 結果
-![circle_ga](https://i.imgur.com/C6WOXmX.gifv)
+![circle_ga](https://i.imgur.com/C6WOXmX.gif)
 ***
 
 ### ■ 参考文献
