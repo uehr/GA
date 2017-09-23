@@ -9,7 +9,7 @@
 ***
 
 ### ■ 結果
-<a href="https://i.imgur.com/C6WOXmX"><img src="https://i.imgur.com/C6WOXmX.gifv" title="source: imgur.com" /></a>
+<a href="http://i.imgur.com/C6WOXmX"><img src="http://i.imgur.com/C6WOXmX.gifv" title="source: imgur.com" /></a>
 ***
 
 ### ■ 参考文献
