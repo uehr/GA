@@ -9,7 +9,7 @@
 ***
 
 ### ■ 結果
-![ga_circle](https://user-images.githubusercontent.com/26696733/30776661-60c4124a-a0e5-11e7-8bfd-b59b75dffbb4.gif)
+![ga_circle](https://user-images.githubusercontent.com/26696733/30776661-60c4124a-a0e5-11e7-8bfd-b59b75dffbb4.gif)  
 [完全版](https://www.youtube.com/watch?v=PIjUlUETgn0)
 ***
 
