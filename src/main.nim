@@ -19,7 +19,7 @@ proc getGoalFromFile(file_name:string): Goal =
         res.max_y = max(res.max_y, i + 1)
   return res
 
-var goal = getGoalFromFile("goal.txt")
+var goal = getGoalFromFile("star.txt")
 
 var hoge = GA(goal:goal.gene, 
               mutation_percent:10,
@@ -41,9 +41,10 @@ while assess != 0:
   hoge.cycle()
   assess = hoge.topGeneAssess()
   if cnt mod 10 == 0:
-    echo "Diff: ", assess 
-    echo "Generation: ", cnt
+    # echo "Diff: ", assess 
+    # echo "Generation: ", cnt
     hoge.generationPrint('.')
   cnt += 1
 
+hoge.generationPrint('.')
 echo readLine(stdin)
